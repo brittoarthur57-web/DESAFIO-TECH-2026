@@ -32,3 +32,4 @@ Desenvolver uma solução tecnológica que facilite a realização de tarefas po
 O projeto consiste no desenvolvimento de uma aplicação web simples e funcional, buscando oferecer praticidade, organização e facilidade de utilização. A solução será construída utilizando tecnologias de desenvolvimento web.
 # DESAFIO-TECH-2026
 - Visual Studio Code
+Projeto desenvolvido como atividade prática do Desafio Tech 2026.
